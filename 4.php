@@ -1,3 +1,4 @@
+<?php 
 $randArray = [];
 //гениратор случайных чисел
 
@@ -26,3 +27,4 @@ while ($i< count($randArray)){
         $res++;
     }
 }
+?>
